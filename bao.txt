@@ -1,0 +1,35 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "---------------------------------------" )
+	call Preload( "游戏ID: wangyafei" )
+	call Preload( "游戏版本: 世界RPG v0.71b中文版" )
+	call Preload( "兼容版本: 0.62e~" )
+	call Preload( "职业: 旅行商人" )
+	call Preload( "等级: 100" )
+	call Preload( "当前经验值/升级所需经验值: 5268537 / 0" )
+	call Preload( "敬告1: 请养成保存装备及材料掉落截图和游戏录像的习惯，并发至百度世界RPG吧" )
+	call Preload( "敬告2: 如果这款游戏让你喜爱有加，请支持正版！您的支持将是游戏不断更新完善的动力，也能助您从游戏中真正体验世界之路的魔力！" )
+	call Preload( "敬告3: 游戏必备资料下载：https://tieba.baidu.com/p/5877904077 【世界RPG装备大全】内含世界RPG百科、【世界RPG装备大全详细数据版】内含游戏详细更新日志等" )
+	call Preload( "重要公告: “贴吧7周年庆活动”已结束，善后事宜请关注百度贴吧-世界RPG吧。" )
+	call Preload( "----------携带物品----------" )
+	call Preload( "1. 诸神黄昏·深渊领主的龙笛" )
+	call Preload( "2. 圣佑头盔" )
+	call Preload( "3. 山丘背包" )
+	call Preload( "4. 佑腐鳞甲" )
+	call Preload( "5. 恶魔骨翼" )
+	call Preload( "----------背包----------" )
+	call Preload( "1. 魔渊之镐" )
+	call Preload( "2. 堕落的火焰魂翼" )
+	call Preload( "3. 死亡之戒" )
+	call Preload( "4. 生命石" )
+	call Preload( "5. 死者之衣" )
+	call Preload( "6. 灵魂之石" )
+	call Preload( "7. 世界大咖·欧皇硬币 x1" )
+	call Preload( "----------仓库----------" )
+	call Preload( "---------------------------------------" )
+	call Preload( "存档代码 1: -load sALelfSmXh7%ofbWzxwF#iv8BYw2CTUrqFaljMevAF9&Kgdg0vXVwOxhx%32q2SjO%0ErbjQw#u$XxOft251F0ri9mWkrjCLk7UVweiUW" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
