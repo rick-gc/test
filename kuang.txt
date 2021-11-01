@@ -1,0 +1,36 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "---------------------------------------" )
+	call Preload( "游戏ID: 爱修电塔的" )
+	call Preload( "游戏版本: 世界RPG v0.71b中文版" )
+	call Preload( "兼容版本: 0.62e~" )
+	call Preload( "职业: 狂战士" )
+	call Preload( "等级: 100" )
+	call Preload( "当前经验值/升级所需经验值: 5268537 / 0" )
+	call Preload( "敬告1: 请养成保存装备及材料掉落截图和游戏录像的习惯，并发至百度世界RPG吧" )
+	call Preload( "敬告2: 如果这款游戏让你喜爱有加，请支持正版！您的支持将是游戏不断更新完善的动力，也能助您从游戏中真正体验世界之路的魔力！" )
+	call Preload( "敬告3: 游戏必备资料下载：https://tieba.baidu.com/p/5877904077 【世界RPG装备大全】内含世界RPG百科、【世界RPG装备大全详细数据版】内含游戏详细更新日志等" )
+	call Preload( "重要公告: “贴吧7周年庆活动”已结束，善后事宜请关注百度贴吧-世界RPG吧。" )
+	call Preload( "----------携带物品----------" )
+	call Preload( "1. 生命咏叹·守护圣甲" )
+	call Preload( "2. 真·无名之剑" )
+	call Preload( "3. 堕落的火焰魂翼" )
+	call Preload( "4. 圣佑头盔" )
+	call Preload( "5. 未完成的狂暴药剂" )
+	call Preload( "----------背包----------" )
+	call Preload( "1. 世界大咖·欧皇硬币 x3" )
+	call Preload( "2. 普瑞斯银币 x10" )
+	call Preload( "3. 魔渊之镐" )
+	call Preload( "4. 普瑞斯白金硬币 x1" )
+	call Preload( "5. 怒焰精华" )
+	call Preload( "6. 堕落之源" )
+	call Preload( "7. 死者之衣" )
+	call Preload( "8. 风暴徽记" )
+	call Preload( "----------仓库----------" )
+	call Preload( "---------------------------------------" )
+	call Preload( "存档代码 1: -load vA39mRwOczvtKHk%D$yfN0CWbH9Z9BkArrwGV&xwiTR@UXdF5ir&HyfiXdZXDanXrOQt1zw&oEWX4beC69lirh$4d#&bfGFxZia0HoO$TKblRUP" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
